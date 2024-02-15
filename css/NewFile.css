@@ -5,7 +5,7 @@ body {
     min-height: 100%;
     margin: 0;
     padding: 0;
-    font-family: "Source Sans Pro", Arial, sans-serif,"ËÎÌå";
+    font-family: "Source Sans Pro", Arial, sans-serif,"Ã‹ÃŽÃŒÃ¥";
     color: #1a1a1a;
     font-weight: 400;
     font-size: 15px;
@@ -90,7 +90,7 @@ h6 {
 
 #site-title, .homepage #site-title {
     font-weight: 300;
-    font-size: 6vw;
+    font-size: max(6vw,6vh);
     line-height: 1em;
 }
 
@@ -104,7 +104,7 @@ h6 {
 }
 
 #browse {
-    font-size: 5vw;
+    font-size: max(5vw,5vh);
     width: 100%;
     min-height: 200px;
     margin-bottom: auto;
@@ -122,7 +122,7 @@ h6 {
 }
 
 #Dateselector {
-    font-size: 2vw;
+    font-size: max(2vw,2vh);
     padding-top: 2em;
     padding-bottom:2em;
     padding-left:0.5em;
