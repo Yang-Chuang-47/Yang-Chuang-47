@@ -90,7 +90,7 @@ h6 {
 
 #site-title, .homepage #site-title {
     font-weight: 300;
-    font-size: max(6vw,6vh);
+    font-size: max(6vw,10vh);
     line-height: 1em;
 }
 
