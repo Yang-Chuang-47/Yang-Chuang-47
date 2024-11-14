@@ -4,7 +4,7 @@ Claim：（Physically，）
 Someone dead has no experience，and
 Someone living has no death.
 
-	Consider the claim above.
+Consider the claim above.
 A) Physically,
 	This adverb shows that the claim is based on such an assumption: mind, which could be partially or totally non-physical, is supported by this physical world, and could not stand without this physical world.
 B) Someone dead has no experience，
